@@ -19,11 +19,6 @@ on:
       - main
   workflow_dispatch:
 
-# Cancel any superseded in-progress CI runs for the same branch
-concurrency:
-  group: ${{ github.workflow }}-${{ github.ref }}
-  cancel-in-progress: true
-
 jobs:
   # ============================================================================
   # JOB 1: CODE QUALITY, SECURITY AUDIT & AUTOMATED PYTEST SUITE
@@ -55,7 +50,6 @@ jobs:
 
       - name: 5. Code Linting & Syntax Validation (Flake8)
         run: |
-          # Stop build if there are Python syntax errors or undefined names
           flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics \
             --exclude=venv,.venv,build,dist
 
@@ -96,15 +90,12 @@ jobs:
       - name: 1. Checkout Repository Code
         uses: actions/checkout@v4
 
-      - name: 2. Set Up Docker Buildx
-        uses: docker/setup-buildx-action@v3
-
-      - name: 3. Build Production Docker Image
+      - name: 2. Build Production Docker Image
         run: |
           docker build \
             --tag cloud-native-analytics:ci-${{ github.sha }} \
             --file Dockerfile .
 
-      - name: 4. Verify Built Image Exists & Inspect Architecture
+      - name: 3. Verify Built Image Exists & Inspect Architecture
         run: |
           docker images cloud-native-analytics:ci-${{ github.sha }}
