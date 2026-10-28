@@ -1,0 +1,110 @@
+name: Continuous Integration (CI) Pipeline
+
+# ==============================================================================
+# TRIGGERS: Runs automatically on git pushes and pull requests to main,
+# as well as feature branches, plus manual execution via workflow_dispatch.
+# ==============================================================================
+on:
+  push:
+    branches:
+      - main
+      - develop
+      - 'feature/**'
+    paths-ignore:
+      - 'docs/**'
+      - '*.md'
+      - '.gitignore'
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+# Cancel any superseded in-progress CI runs for the same branch
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  # ============================================================================
+  # JOB 1: CODE QUALITY, SECURITY AUDIT & AUTOMATED PYTEST SUITE
+  # ============================================================================
+  test:
+    name: Lint, Audit & Pytest Verification
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: 1. Checkout Repository Code
+        uses: actions/checkout@v4
+
+      - name: 2. Set Up Python 3.11 Runtime
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: 3. Upgrade Pip & Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install flake8
+
+      - name: 4. DevSecOps Security Audit (Zero Secret Leaks)
+        run: |
+          python scripts/check_secrets.py
+
+      - name: 5. Code Linting & Syntax Validation (Flake8)
+        run: |
+          # Stop build if there are Python syntax errors or undefined names
+          flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics \
+            --exclude=venv,.venv,build,dist
+
+      - name: 6. Generate Synthetic E-Commerce Test Dataset
+        run: |
+          python scripts/generate_sample_data.py
+
+      - name: 7. Run Complete Automated Pytest Suite (29 Tests)
+        run: |
+          pytest -v --junitxml=test-results.xml tests/
+
+      - name: 8. Execute Automated ETL Pipeline (Local Offline Mode)
+        run: |
+          python scripts/run_etl.py
+
+      - name: 9. Validate Streamlit Dashboard App Imports & Syntax
+        run: |
+          python -c "import app; print('Streamlit Dashboard module successfully validated!')"
+
+      - name: 10. Archive Pytest Results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: pytest-results
+          path: test-results.xml
+          retention-days: 7
+
+  # ============================================================================
+  # JOB 2: CONTAINER BUILD VERIFICATION (DOCKER)
+  # ============================================================================
+  docker-build:
+    name: Docker Image Build Validation
+    needs: test
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: 1. Checkout Repository Code
+        uses: actions/checkout@v4
+
+      - name: 2. Set Up Docker Buildx
+        uses: actions/setup-buildx-action@v3
+
+      - name: 3. Build Production Docker Image
+        run: |
+          docker build \
+            --tag cloud-native-analytics:ci-${{ github.sha }} \
+            --file Dockerfile .
+
+      - name: 4. Verify Built Image Exists & Inspect Architecture
+        run: |
+          docker images cloud-native-analytics:ci-${{ github.sha }}
