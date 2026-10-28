@@ -63,13 +63,13 @@ jobs:
         run: |
           python scripts/generate_sample_data.py
 
-      - name: 7. Run Complete Automated Pytest Suite (29 Tests)
-        run: |
-          pytest -v --junitxml=test-results.xml tests/
-
-      - name: 8. Execute Automated ETL Pipeline (Local Offline Mode)
+      - name: 7. Execute Automated ETL Pipeline (Process & Generate Parquet)
         run: |
           python scripts/run_etl.py
+
+      - name: 8. Run Complete Automated Pytest Suite (29 Tests)
+        run: |
+          pytest -v --junitxml=test-results.xml tests/
 
       - name: 9. Validate Streamlit Dashboard App Imports & Syntax
         run: |

@@ -10,6 +10,11 @@ class TestAnalyticsEngine(unittest.TestCase):
     @classmethod
     def setUpClass(cls) -> None:
         cls.engine = get_analytics_engine()
+        # Guarantee processed Parquet dataset exists before running tests
+        parquet_file = cls.engine.load_local_data()
+        if parquet_file.empty:
+            from etl.pipeline import run_etl_pipeline
+            run_etl_pipeline(is_cloud=False)
 
     def test_load_local_data_returns_records(self) -> None:
         """Verify that load_local_data loads the processed Parquet dataset."""
