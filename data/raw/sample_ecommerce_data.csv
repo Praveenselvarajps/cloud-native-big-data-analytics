@@ -1,0 +1,501 @@
+order_id,order_date,product_id,product_name,category,quantity,unit_price,region,customer_id
+ORD-20260121,2026-08-01 14:49:35,PROD-202,Water-Resistant Running Jacket,Clothing,8,69.9,Asia-Pacific,CUST-1218
+ORD-20260464,2026-07-29 06:51:12,PROD-302,Smart Air Purifier with HEPA Filter,Home Kitchen,7,119.27,Europe,CUST-1295
+ORD-20260454,2026-08-19 18:25:02,PROD-202,Water-Resistant Running Jacket,Clothing,8,49.39,Latin America,CUST-1164
+ORD-20260453,2026-09-02 08:52:27,PROD-102,Ergonomic Mechanical Keyboard,electronics,3,84.37,Asia-Pacific,CUST-1234
+ORD-20260420,2026-10-21 05:28:12,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,6,22.25,Europe,CUST-1301
+ORD-20260099,2026-08-02 11:00:48,PROD-102,Ergonomic Mechanical Keyboard,Electronics,7,69.49,Latin America,CUST-1094
+ORD-20260309,2026-10-05 00:15:09,PROD-402,Distributed Systems in Practice,Books,4,41.91,Middle East,CUST-1459
+ORD-20260076,2026-09-15 07:27:46,PROD-402,Distributed Systems in Practice,Books,5,45.13,Latin America,CUST-1168
+ORD-20260039,2026-07-07 08:01:18,PROD-104,USB-C Fast Charging Hub,Electronics,4,23.79,Latin America,CUST-1072
+ORD-20260069,2026-09-16 03:42:49,PROD-104,USB-C Fast Charging Hub,Electronics,1,33.19,Latin America,CUST-1169
+ORD-20260031,2026-09-15 21:28:24,PROD-401,Python Cloud Architecture Handbook,Books,6,38.75,Middle East,CUST-1232
+ORD-20260226,2026-07-30 14:24:17,PROD-301,Stainless Steel French Press Coffee Maker,Home & Kitchen,5,25.9,Latin America,CUST-1307
+ORD-20260240,2026-08-04 13:15:43,PROD-202,Water-Resistant Running Jacket,Clothing,6,51.79,North America,CUST-1241
+ORD-20260169,2026-10-04 01:05:49,PROD-101,Wireless Noise-Canceling Headphones,Electronics,1,118.91,North America,CUST-1151
+ORD-20260181,2026-07-16 19:57:01,PROD-101,Wireless Noise-Canceling Headphones,Electronics,6,167.87,North America,CUST-1466
+ORD-20260161,2026-10-01 03:18:20,PROD-303,Non-Stick Ceramic Cookware Set 10-pc,Home & Kitchen,7,121.01,Latin America,CUST-1023
+ORD-20260047,2026-08-21 16:39:45,PROD-103,4K Ultra HD Gaming Monitor 27-inch,Electronics,1,394.11,North America,CUST-1436
+ORD-20260480,2026-07-26 00:16:23,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,0,34.18,Latin America,CUST-1251
+ORD-20260317,2026-08-29 20:52:04,PROD-301,Stainless Steel French Press Coffee Maker,Home & Kitchen,8,29.07,Middle East,CUST-1074
+ORD-20260278,2026-10-16 23:26:47,PROD-104,USB-C Fast Charging Hub,Electronics,2,35.42,Asia-Pacific,CUST-1069
+ORD-20260339,2026-08-13 07:59:56,PROD-104,USB-C Fast Charging Hub,Electronics,1,28.81,Latin America,CUST-1078
+ORD-20260272,2026-09-17 07:33:50,PROD-101,Wireless Noise-Canceling Headphones,Electronics,4,130.37,Middle East,CUST-1235
+ORD-20260151,2026-09-20 16:00:13,PROD-103,4K Ultra HD Gaming Monitor 27-inch,Electronics,5,315.71,Latin America,CUST-1063
+ORD-20260476,2026-09-01 05:57:25,PROD-303,Non-Stick Ceramic Cookware Set 10-pc,Home & Kitchen,0,170.63,Europe,CUST-1413
+ORD-20260263,2026-09-23 10:06:01,PROD-401,Python Cloud Architecture Handbook,Books,8,47.47,Middle East,CUST-1479
+ORD-20260461,2026-07-31 18:10:43,PROD-302,Smart Air Purifier with HEPA Filter,Home & Kitchen,6,131.78,Middle East,CUST-1201
+ORD-20260385,2026-08-10 10:46:40,PROD-301,Stainless Steel French Press Coffee Maker,Home & Kitchen,1,29.88,North America,CUST-1206
+ORD-20260175,2026-09-22 19:22:02,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,5,25.19,Latin America,CUST-1437
+ORD-20260409,2026-09-27 17:35:13,PROD-301,Stainless Steel French Press Coffee Maker,Home & Kitchen,6,26.2,Middle East,CUST-1468
+ORD-20260091,2026-09-20 23:46:20,PROD-202,Water-Resistant Running Jacket,Clothing,2,51.23,Europe,CUST-1197
+ORD-20260366,2026-09-16 06:11:06,PROD-203,Classic Denim Straight Jeans,Clothing,5,60.7,Asia-Pacific,CUST-1189
+ORD-20260074,2026-09-23 10:23:03,PROD-402,Distributed Systems in Practice,Books,7,35.02,Middle East,CUST-1352
+ORD-20260093,2026-08-16 19:02:11,PROD-203,Classic Denim Straight Jeans,Clothing,1,46.2,Latin America,CUST-1200
+ORD-20260299,2026-10-10 07:03:30,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,2,29.23,Latin America,CUST-1045
+ORD-20260466,2026-10-02 00:32:48,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,8,31.91,Asia-Pacific,
+ORD-20260066,2026-09-03 11:05:52,PROD-103,4K Ultra HD Gaming Monitor 27-inch,Electronics,6,367.35,Latin America,CUST-1411
+ORD-20260287,2026-08-30 14:03:56,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,3,30.73,Asia-Pacific,CUST-1053
+ORD-20260432,2026-08-10 00:11:17,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,7,22.2,Latin America,CUST-1199
+ORD-20260010,2026-09-26 01:27:50,PROD-102,Ergonomic Mechanical Keyboard,Electronics,4,120.64,Latin America,CUST-1143
+ORD-20260167,2026-08-17 10:41:35,PROD-303,Non-Stick Ceramic Cookware Set 10-pc,Home & Kitchen,2,121.12,Asia-Pacific,CUST-1117
+ORD-20260277,2026-08-04 21:54:51,PROD-202,Water-Resistant Running Jacket,Clothing,5,78.62,Asia-Pacific,CUST-1404
+ORD-20260087,2026-08-18 15:39:01,PROD-303,Non-Stick Ceramic Cookware Set 10-pc,Home & Kitchen,6,185.49,Latin America,CUST-1314
+ORD-20260319,2026-09-07 17:15:01,PROD-302,Smart Air Purifier with HEPA Filter,Home & Kitchen,2,112.33,Latin America,CUST-1063
+ORD-20260207,2026-07-02 09:03:31,PROD-202,Water-Resistant Running Jacket,Clothing,3,47.96,Asia-Pacific,CUST-1320
+ORD-20260098,2026-10-03 18:58:59,PROD-103,4K Ultra HD Gaming Monitor 27-inch,Electronics,1,386.03,Middle East,CUST-1289
+ORD-20260137,2026-07-27 01:42:24,PROD-402,Distributed Systems in Practice,Books,8,36.41,Europe,CUST-1474
+ORD-20260382,2026-07-30 16:10:39,PROD-203,Classic Denim Straight Jeans,Clothing,7,64.69,Europe,CUST-1236
+ORD-20260108,2026-08-10 13:09:47,PROD-104,USB-C Fast Charging Hub,Electronics,2,33.93,Asia-Pacific,CUST-1436
+ORD-20260494,2026-13-45 25:99:99,PROD-102,Ergonomic Mechanical Keyboard,Electronics,6,85.72,Asia-Pacific,CUST-1071
+ORD-20260250,2026-10-05 23:51:46,PROD-102,Ergonomic Mechanical Keyboard,Electronics,3,124.16,Asia-Pacific,CUST-1496
+ORD-20260368,2026-08-08 22:23:49,PROD-203,Classic Denim Straight Jeans,Clothing,8,62.71,Europe,CUST-1391
+ORD-20260442,2026-09-07 01:47:41,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,7,27.84,Middle East,CUST-1103
+ORD-20260320,2026-09-20 19:37:51,PROD-104,USB-C Fast Charging Hub,Electronics,3,21.93,Asia-Pacific,CUST-1485
+ORD-20260205,2026-08-08 10:25:17,PROD-402,Distributed Systems in Practice,Books,5,44.15,North America,CUST-1032
+ORD-20260380,2026-08-02 23:20:18,PROD-102,Ergonomic Mechanical Keyboard,Electronics,3,129.49,Latin America,CUST-1271
+ORD-20260015,2026-09-14 21:23:39,PROD-201,Organic Cotton Crewneck T-Shirt,Clothing,2,21.35,Middle East,CUST-1449
+ORD-20260361,2026-09-12 01:15:31,PROD-303,Non-Stick Ceramic Cookware Set 10-pc,Home & Kitchen,4,115.78,Latin America,CUST-1424
+ORD-20260343,2026-09-09 12:34:41,PROD-501,Adjustable Dumbbells Set 50-lb,Fitness,5,241.5,Europe,CUST-1491
+ORD-20260048,2026-10-02 09:30:19,PROD-303,Non-Stick Ceramic Cookware Set 10-pc,Home & Kitchen,2,160.76,Europe,CUST-1207
+ORD-20260059,2026-07-01 10:09:02,PROD-102,Ergonomic Mechanical Keyboard,Electronics,7,118.04,North America,CUST-1002
+ORD-20260286,2026-08-22 22:37:32,PROD-501,Adjustable Dumbbells Set 50-lb,Fitness,5,270.16,Latin America,CUST-1041
+ORD-20260367,2026-08-08 03:57:33,PROD-104,USB-C Fast Charging Hub,Electronics,3,29.55,Latin America,CUST-1383
+ORD-20260107,2026-10-22 00:38:32,PROD-303,Non-Stick Ceramic Cookware Set 10-pc,Home & Kitchen,7,135.69,Europe,CUST-1039
+ORD-20260376,2026-09-11 09:40:43,PROD-302,Smart Air Purifier with HEPA Filter,Home & Kitchen,1,155.41,North America,CUST-1479
+ORD-20260184,2026-07-11 18:27:24,PROD-501,Adjustable Dumbbells Set 50-lb,Fitness,5,261.97,Asia-Pacific,CUST-1412
+ORD-20260094,2026-07-01 14:44:04,PROD-402,Distributed Systems in Practice,Books,1,52.12,Middle East,CUST-1195
+ORD-20260351,2026-09-24 10:09:07,PROD-401,Python Cloud Architecture Handbook,Books,4,42.75,North America,CUST-1052
+ORD-20260414,2026-09-05 09:07:23,PROD-202,Water-Resistant Running Jacket,Clothing,7,65.65,Europe,CUST-1357
+ORD-20260373,2026-07-14 09:58:28,PROD-301,Stainless Steel French Press Coffee Maker,Home & Kitchen,3,35.25,Latin America,CUST-1289
+ORD-20260425,2026-08-05 02:02:55,PROD-501,Adjustable Dumbbells Set 50-lb,Fitness,8,223.58,Asia-Pacific,CUST-1284
+ORD-20260095,2026-08-25 11:47:08,PROD-202,Water-Resistant Running Jacket,Clothing,5,78.9,Latin America,CUST-1276
+ORD-20260221,2026-07-21 16:41:09,PROD-104,USB-C Fast Charging Hub,Electronics,7,28.39,Asia-Pacific,CUST-1081
+ORD-20260148,2026-08-28 08:47:38,PROD-202,Water-Resistant Running Jacket,Clothing,5,59.54,Latin America,CUST-1443
+ORD-20260479,2026-10-18 01:54:11,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,-2,33.22,Europe,CUST-1128
+ORD-20260303,2026-07-15 18:00:48,PROD-101,Wireless Noise-Canceling Headphones,Electronics,6,146.47,Asia-Pacific,CUST-1240
+ORD-20260450,2026-07-20 23:55:37,PROD-501,Adjustable Dumbbells Set 50-lb,Fitness,7,165.88,North America,CUST-1133
+ORD-20260182,2026-09-18 00:06:17,PROD-402,Distributed Systems in Practice,Books,7,38.5,Europe,CUST-1403
+ORD-20260153,2026-10-23 15:53:36,PROD-203,Classic Denim Straight Jeans,Clothing,2,46.73,North America,CUST-1237
+ORD-20260195,2026-09-09 08:22:58,PROD-401,Python Cloud Architecture Handbook,Books,6,40.88,Asia-Pacific,CUST-1032
+ORD-20260411,2026-10-22 16:43:29,PROD-402,Distributed Systems in Practice,Books,5,45.7,Asia-Pacific,CUST-1009
+ORD-20260100,2026-10-19 02:31:41,PROD-203,Classic Denim Straight Jeans,Clothing,6,46.34,Asia-Pacific,CUST-1173
+ORD-20260042,2026-10-24 08:36:16,PROD-501,Adjustable Dumbbells Set 50-lb,Fitness,4,174.94,Latin America,CUST-1247
+ORD-20260348,2026-10-20 01:31:40,PROD-402,Distributed Systems in Practice,Books,2,41.92,Latin America,CUST-1336
+ORD-20260073,2026-07-17 00:34:46,PROD-203,Classic Denim Straight Jeans,Clothing,2,51.55,Middle East,CUST-1098
+ORD-20260439,2026-09-12 20:19:19,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,3,26.81,Middle East,CUST-1486
+ORD-20260063,2026-09-09 10:32:51,PROD-202,Water-Resistant Running Jacket,Clothing,4,75.69,North America,CUST-1182
+ORD-20260171,2026-07-30 05:26:40,PROD-103,4K Ultra HD Gaming Monitor 27-inch,Electronics,3,261.84,Latin America,CUST-1318
+ORD-20260462,2026-09-10 23:11:05,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,8,31.88,Asia-Pacific,CUST-1471
+ORD-20260375,2026-07-13 11:53:25,PROD-402,Distributed Systems in Practice,Books,4,46.56,North America,CUST-1217
+ORD-20260477,2026-10-17 15:14:40,PROD-202,Water-Resistant Running Jacket,Clothing,-3,71.85,Europe,CUST-1166
+ORD-20260003,2026-09-25 17:36:03,PROD-303,Non-Stick Ceramic Cookware Set 10-pc,Home & Kitchen,1,150.5,Middle East,CUST-1215
+ORD-20260208,2026-08-04 14:41:16,PROD-302,Smart Air Purifier with HEPA Filter,Home & Kitchen,6,116.65,Middle East,CUST-1272
+ORD-20260194,2026-07-28 22:30:34,PROD-104,USB-C Fast Charging Hub,Electronics,8,28.88,Europe,CUST-1438
+ORD-20260110,2026-10-19 23:21:32,PROD-302,Smart Air Purifier with HEPA Filter,Home & Kitchen,7,136.3,North America,CUST-1260
+ORD-20260332,2026-08-25 17:05:31,PROD-301,Stainless Steel French Press Coffee Maker,Home & Kitchen,3,37.12,Middle East,CUST-1072
+ORD-20260109,2026-07-29 14:08:23,PROD-501,Adjustable Dumbbells Set 50-lb,Fitness,2,269.42,Middle East,CUST-1401
+ORD-20260026,2026-07-17 16:41:26,PROD-101,Wireless Noise-Canceling Headphones,Electronics,6,138.62,North America,CUST-1476
+ORD-20260212,2026-09-15 02:43:12,PROD-202,Water-Resistant Running Jacket,Clothing,3,75.9,Latin America,CUST-1035
+ORD-20260018,2026-08-11 21:27:30,PROD-202,Water-Resistant Running Jacket,Clothing,4,89.87,Europe,CUST-1261
+ORD-20260050,2026-08-11 15:25:15,PROD-302,Smart Air Purifier with HEPA Filter,Home & Kitchen,6,155.42,Europe,CUST-1343
+ORD-20260397,2026-07-01 11:26:31,PROD-104,USB-C Fast Charging Hub,Electronics,4,39.23,North America,CUST-1383
+ORD-20260248,2026-09-02 23:40:50,PROD-401,Python Cloud Architecture Handbook,Books,1,45.77,Asia-Pacific,CUST-1034
+ORD-20260129,2026-08-29 23:35:43,PROD-103,4K Ultra HD Gaming Monitor 27-inch,Electronics,1,287.86,Latin America,CUST-1059
+ORD-20260297,2026-08-19 21:54:37,PROD-302,Smart Air Purifier with HEPA Filter,Home & Kitchen,2,108.31,Asia-Pacific,CUST-1361
+ORD-20260377,2026-08-26 10:50:41,PROD-201,Organic Cotton Crewneck T-Shirt,Clothing,7,20.93,Europe,CUST-1393
+ORD-20260324,2026-09-04 17:35:51,PROD-301,Stainless Steel French Press Coffee Maker,Home & Kitchen,4,29.29,Asia-Pacific,CUST-1025
+ORD-20260364,2026-08-29 02:16:45,PROD-202,Water-Resistant Running Jacket,Clothing,5,71.2,Middle East,CUST-1006
+ORD-20260174,2026-10-15 19:55:02,PROD-202,Water-Resistant Running Jacket,Clothing,5,73.75,Latin America,CUST-1354
+ORD-20260083,2026-08-25 13:44:40,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,2,29.29,Middle East,CUST-1100
+ORD-20260136,2026-09-02 19:35:52,PROD-402,Distributed Systems in Practice,Books,8,40.82,Europe,CUST-1148
+ORD-20260113,2026-07-23 17:00:14,PROD-401,Python Cloud Architecture Handbook,Books,5,42.31,Middle East,CUST-1397
+ORD-20260388,2026-09-17 06:47:03,PROD-401,Python Cloud Architecture Handbook,Books,4,38.26,Asia-Pacific,CUST-1032
+ORD-20260313,2026-07-09 15:28:46,PROD-101,Wireless Noise-Canceling Headphones,Electronics,1,89.74,Middle East,CUST-1136
+ORD-20260431,2026-09-03 08:14:22,PROD-101,Wireless Noise-Canceling Headphones,Electronics,2,122.46,North America,CUST-1306
+ORD-20260144,2026-10-20 05:37:18,PROD-301,Stainless Steel French Press Coffee Maker,Home & Kitchen,8,43.31,Europe,CUST-1300
+ORD-20260363,2026-10-07 18:37:00,PROD-202,Water-Resistant Running Jacket,Clothing,4,45.31,Latin America,CUST-1121
+ORD-20260443,2026-08-10 16:08:04,PROD-103,4K Ultra HD Gaming Monitor 27-inch,Electronics,1,392.94,Latin America,CUST-1483
+ORD-20260243,2026-09-19 09:12:23,PROD-401,Python Cloud Architecture Handbook,Books,2,42.29,Middle East,CUST-1197
+ORD-20260457,2026-08-14 20:28:35,PROD-301,Stainless Steel French Press Coffee Maker,Home Kitchen,4,40.95,Europe,CUST-1096
+ORD-20260298,2026-08-29 04:11:16,PROD-303,Non-Stick Ceramic Cookware Set 10-pc,Home & Kitchen,5,162.45,Latin America,CUST-1103
+ORD-20260321,2026-09-05 13:35:42,PROD-203,Classic Denim Straight Jeans,Clothing,4,68.87,Europe,CUST-1417
+ORD-20260202,2026-10-23 22:57:25,PROD-501,Adjustable Dumbbells Set 50-lb,Fitness,4,238.32,North America,CUST-1090
+ORD-20260046,2026-07-22 16:15:34,PROD-101,Wireless Noise-Canceling Headphones,Electronics,6,86.85,Middle East,CUST-1245
+ORD-20260318,2026-09-15 00:22:27,PROD-402,Distributed Systems in Practice,Books,6,54.5,Europe,CUST-1390
+ORD-20260055,2026-09-16 13:43:47,PROD-501,Adjustable Dumbbells Set 50-lb,Fitness,1,250.17,Middle East,CUST-1154
+ORD-20260088,2026-07-12 17:37:18,PROD-203,Classic Denim Straight Jeans,Clothing,8,66.91,Latin America,CUST-1231
+ORD-20260049,2026-10-09 15:15:32,PROD-104,USB-C Fast Charging Hub,Electronics,1,32.38,Latin America,CUST-1337
+ORD-20260231,2026-09-14 15:02:15,PROD-203,Classic Denim Straight Jeans,Clothing,7,61.27,Latin America,CUST-1149
+ORD-20260304,2026-07-14 15:54:55,PROD-103,4K Ultra HD Gaming Monitor 27-inch,Electronics,2,259.85,Latin America,CUST-1368
+ORD-20260469,2026-10-04 08:59:25,PROD-303,Non-Stick Ceramic Cookware Set 10-pc,Home & Kitchen,1,171.62,Europe,
+ORD-20260415,2026-09-27 01:04:42,PROD-401,Python Cloud Architecture Handbook,Books,2,43.06,North America,CUST-1048
+ORD-20260474,2026-09-21 23:18:32,PROD-502,Eco-Friendly Yoga Mat 6mm,,2,29.03,North America,CUST-1398
+ORD-20260285,2026-09-03 19:59:23,PROD-203,Classic Denim Straight Jeans,Clothing,6,69.2,Latin America,CUST-1355
+ORD-20260157,2026-07-05 07:01:48,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,2,26.42,Latin America,CUST-1175
+ORD-20260177,2026-07-28 01:15:04,PROD-101,Wireless Noise-Canceling Headphones,Electronics,7,112.93,Middle East,CUST-1443
+ORD-20260154,2026-10-09 12:25:04,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,3,29.97,Asia-Pacific,CUST-1261
+ORD-20260085,2026-07-21 08:07:10,PROD-501,Adjustable Dumbbells Set 50-lb,Fitness,7,182.82,Middle East,CUST-1238
+ORD-20260173,2026-09-23 11:39:29,PROD-501,Adjustable Dumbbells Set 50-lb,Fitness,8,285.17,Middle East,CUST-1081
+ORD-20260340,2026-09-03 04:34:36,PROD-203,Classic Denim Straight Jeans,Clothing,8,66.17,North America,CUST-1362
+ORD-20260114,2026-08-24 19:04:29,PROD-203,Classic Denim Straight Jeans,Clothing,5,49.66,Europe,CUST-1426
+ORD-20260235,2026-09-12 03:55:59,PROD-202,Water-Resistant Running Jacket,Clothing,3,48.44,North America,CUST-1272
+ORD-20260017,2026-09-22 06:54:59,PROD-104,USB-C Fast Charging Hub,Electronics,5,34.93,Latin America,CUST-1460
+ORD-20260357,2026-07-22 01:27:39,PROD-101,Wireless Noise-Canceling Headphones,Electronics,1,115.8,Middle East,CUST-1055
+ORD-20260429,2026-10-12 08:40:05,PROD-101,Wireless Noise-Canceling Headphones,Electronics,5,133.36,Asia-Pacific,CUST-1053
+ORD-20260166,2026-07-30 16:34:18,PROD-203,Classic Denim Straight Jeans,Clothing,6,58.79,Latin America,CUST-1447
+ORD-20260335,2026-08-23 15:30:17,PROD-201,Organic Cotton Crewneck T-Shirt,Clothing,8,29.51,Asia-Pacific,CUST-1170
+ORD-20260288,2026-10-15 00:03:39,PROD-401,Python Cloud Architecture Handbook,Books,5,36.12,Middle East,CUST-1368
+ORD-20260427,2026-07-18 13:28:37,PROD-201,Organic Cotton Crewneck T-Shirt,Clothing,4,28.13,North America,CUST-1138
+ORD-20260051,2026-07-26 00:33:40,PROD-104,USB-C Fast Charging Hub,Electronics,5,27.91,Asia-Pacific,CUST-1235
+ORD-20260222,2026-09-08 00:39:14,PROD-402,Distributed Systems in Practice,Books,6,50.53,Middle East,CUST-1306
+ORD-20260057,2026-08-16 06:20:26,PROD-201,Organic Cotton Crewneck T-Shirt,Clothing,5,26.67,Asia-Pacific,CUST-1105
+ORD-20260225,2026-09-21 04:09:05,PROD-501,Adjustable Dumbbells Set 50-lb,Fitness,2,201.77,North America,CUST-1146
+ORD-20260270,2026-08-08 11:48:32,PROD-102,Ergonomic Mechanical Keyboard,Electronics,1,77.9,Europe,CUST-1281
+ORD-20260032,2026-10-10 02:58:27,PROD-104,USB-C Fast Charging Hub,Electronics,2,26.75,Middle East,CUST-1284
+ORD-20260289,2026-09-01 05:55:58,PROD-402,Distributed Systems in Practice,Books,8,42.02,North America,CUST-1373
+ORD-20260295,2026-07-20 09:12:03,PROD-303,Non-Stick Ceramic Cookware Set 10-pc,Home & Kitchen,3,147.64,Latin America,CUST-1161
+ORD-20260186,2026-07-30 21:31:51,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,6,23.44,Latin America,CUST-1008
+ORD-20260283,2026-09-23 10:40:01,PROD-501,Adjustable Dumbbells Set 50-lb,Fitness,4,192.91,North America,CUST-1444
+ORD-20260264,2026-10-11 17:12:59,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,2,26.56,Europe,CUST-1140
+ORD-20260141,2026-09-16 21:20:43,PROD-201,Organic Cotton Crewneck T-Shirt,Clothing,8,24.41,Middle East,CUST-1021
+ORD-20260394,2026-09-12 12:27:15,PROD-102,Ergonomic Mechanical Keyboard,Electronics,8,119.29,North America,CUST-1275
+ORD-20260428,2026-10-05 22:09:53,PROD-402,Distributed Systems in Practice,Books,3,49.78,Asia-Pacific,CUST-1185
+ORD-20260104,2026-10-22 13:22:41,PROD-103,4K Ultra HD Gaming Monitor 27-inch,Electronics,4,268.92,North America,CUST-1289
+ORD-20260417,2026-10-04 08:59:23,PROD-301,Stainless Steel French Press Coffee Maker,Home & Kitchen,7,37.89,Asia-Pacific,CUST-1290
+ORD-20260470,2026-10-21 01:59:35,PROD-104,USB-C Fast Charging Hub,Electronics,5,,Latin America,CUST-1290
+ORD-20260219,2026-10-02 02:03:02,PROD-402,Distributed Systems in Practice,Books,5,53.42,Asia-Pacific,CUST-1004
+ORD-20260456,2026-07-31 06:00:58,PROD-402,Distributed Systems in Practice,books,4,45.31,Middle East,CUST-1082
+ORD-20260353,2026-08-16 06:14:59,PROD-203,Classic Denim Straight Jeans,Clothing,8,54.31,Europe,CUST-1388
+ORD-20260132,2026-07-19 20:50:52,PROD-303,Non-Stick Ceramic Cookware Set 10-pc,Home & Kitchen,4,169.8,Latin America,CUST-1231
+ORD-20260102,2026-10-22 16:21:38,PROD-101,Wireless Noise-Canceling Headphones,Electronics,6,106.9,North America,CUST-1400
+ORD-20260190,2026-07-28 00:59:52,PROD-401,Python Cloud Architecture Handbook,Books,7,32.32,North America,CUST-1485
+ORD-20260486,2026-10-08 15:23:15,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,8,0.0,North America,CUST-1024
+ORD-20260251,2026-08-02 21:43:46,PROD-103,4K Ultra HD Gaming Monitor 27-inch,Electronics,2,296.43,Latin America,CUST-1330
+ORD-20260421,2026-10-06 21:29:55,PROD-102,Ergonomic Mechanical Keyboard,Electronics,5,71.36,Europe,CUST-1291
+ORD-20260001,2026-08-05 07:56:48,PROD-101,Wireless Noise-Canceling Headphones,Electronics,5,109.38,Europe,CUST-1378
+ORD-20260056,2026-06-28 08:13:43,PROD-103,4K Ultra HD Gaming Monitor 27-inch,Electronics,5,267.3,North America,CUST-1381
+ORD-20260011,2026-08-27 12:51:20,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,6,24.6,Asia-Pacific,CUST-1108
+ORD-20260459,2026-07-27 04:10:47,PROD-104,USB-C Fast Charging Hub,Electronics,5,35.04,North America,CUST-1296
+ORD-20260179,2026-07-15 03:37:18,PROD-303,Non-Stick Ceramic Cookware Set 10-pc,Home & Kitchen,6,119.7,Europe,CUST-1318
+ORD-20260437,2026-08-08 04:52:50,PROD-301,Stainless Steel French Press Coffee Maker,Home & Kitchen,2,27.7,North America,CUST-1486
+ORD-20260176,2026-08-25 08:07:01,PROD-104,USB-C Fast Charging Hub,Electronics,7,31.43,Middle East,CUST-1152
+ORD-20260424,2026-07-10 09:13:57,PROD-202,Water-Resistant Running Jacket,Clothing,7,88.59,Asia-Pacific,CUST-1016
+ORD-20260274,2026-08-20 15:03:48,PROD-104,USB-C Fast Charging Hub,Electronics,3,25.82,North America,CUST-1315
+ORD-20260237,2026-10-12 06:40:06,PROD-201,Organic Cotton Crewneck T-Shirt,Clothing,4,20.84,Europe,CUST-1390
+ORD-20260433,2026-07-18 08:54:59,PROD-402,Distributed Systems in Practice,Books,4,46.43,Europe,CUST-1351
+ORD-20260119,2026-09-24 21:12:09,PROD-301,Stainless Steel French Press Coffee Maker,Home & Kitchen,4,38.8,Latin America,CUST-1230
+ORD-20260422,2026-07-10 21:49:53,PROD-401,Python Cloud Architecture Handbook,Books,6,37.67,Europe,CUST-1405
+ORD-20260196,2026-09-05 01:57:20,PROD-104,USB-C Fast Charging Hub,Electronics,2,38.97,Latin America,CUST-1047
+ORD-20260410,2026-08-24 18:14:16,PROD-101,Wireless Noise-Canceling Headphones,Electronics,1,143.86,Latin America,CUST-1007
+ORD-20260323,2026-08-20 19:00:14,PROD-301,Stainless Steel French Press Coffee Maker,Home & Kitchen,5,34.94,North America,CUST-1484
+ORD-20260347,2026-07-02 21:38:08,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,6,37.27,Europe,CUST-1149
+ORD-20260413,2026-10-06 03:13:36,PROD-104,USB-C Fast Charging Hub,Electronics,5,36.29,Asia-Pacific,CUST-1408
+ORD-20260389,2026-08-14 14:27:30,PROD-402,Distributed Systems in Practice,Books,3,47.51,Latin America,CUST-1285
+ORD-20260244,2026-08-26 14:52:16,PROD-302,Smart Air Purifier with HEPA Filter,Home & Kitchen,1,121.47,Middle East,CUST-1334
+ORD-20260267,2026-09-24 21:56:25,PROD-102,Ergonomic Mechanical Keyboard,Electronics,6,75.71,Asia-Pacific,CUST-1477
+ORD-20260209,2026-09-17 19:28:51,PROD-302,Smart Air Purifier with HEPA Filter,Home & Kitchen,7,96.93,North America,CUST-1437
+ORD-20260412,2026-08-21 20:19:24,PROD-501,Adjustable Dumbbells Set 50-lb,Fitness,3,166.04,North America,CUST-1269
+ORD-20260203,2026-09-22 10:05:32,PROD-103,4K Ultra HD Gaming Monitor 27-inch,Electronics,7,328.9,North America,CUST-1244
+ORD-20260300,2026-07-14 00:21:51,PROD-401,Python Cloud Architecture Handbook,Books,6,44.18,Middle East,CUST-1278
+ORD-20260490,2026-10-04 10:06:53,PROD-203,Classic Denim Straight Jeans,Clothing,5,0.0,Europe,CUST-1220
+ORD-20260279,2026-10-19 23:10:24,PROD-302,Smart Air Purifier with HEPA Filter,Home & Kitchen,6,146.94,Europe,CUST-1426
+ORD-20260444,2026-07-27 04:22:01,PROD-301,Stainless Steel French Press Coffee Maker,Home & Kitchen,5,41.62,North America,CUST-1420
+ORD-20260200,2026-07-01 14:18:04,PROD-101,Wireless Noise-Canceling Headphones,Electronics,5,183.0,Europe,CUST-1067
+ORD-20260232,2026-10-10 21:15:12,PROD-101,Wireless Noise-Canceling Headphones,Electronics,6,100.61,Middle East,CUST-1236
+ORD-20260489,2026-07-06 02:01:24,PROD-102,Ergonomic Mechanical Keyboard,Electronics,6,-46.15,Asia-Pacific,CUST-1341
+ORD-20260228,2026-09-23 01:27:42,PROD-202,Water-Resistant Running Jacket,Clothing,2,45.35,Latin America,CUST-1090
+ORD-20260246,2026-10-11 23:29:45,PROD-402,Distributed Systems in Practice,Books,2,45.08,Europe,CUST-1021
+ORD-20260070,2026-09-20 09:28:21,PROD-501,Adjustable Dumbbells Set 50-lb,Fitness,5,202.66,Middle East,CUST-1205
+ORD-20260116,2026-08-07 22:12:06,PROD-202,Water-Resistant Running Jacket,Clothing,1,67.24,Asia-Pacific,CUST-1094
+ORD-20260082,2026-09-16 03:49:16,PROD-501,Adjustable Dumbbells Set 50-lb,Fitness,4,172.09,North America,CUST-1126
+ORD-20260356,2026-07-05 05:36:00,PROD-101,Wireless Noise-Canceling Headphones,Electronics,7,174.55,Europe,CUST-1480
+ORD-20260387,2026-08-22 01:28:06,PROD-104,USB-C Fast Charging Hub,Electronics,6,31.54,Asia-Pacific,CUST-1122
+ORD-20260404,2026-09-25 22:10:14,PROD-303,Non-Stick Ceramic Cookware Set 10-pc,Home & Kitchen,4,144.93,Asia-Pacific,CUST-1132
+ORD-20260241,2026-08-29 13:00:44,PROD-201,Organic Cotton Crewneck T-Shirt,Clothing,5,26.48,Asia-Pacific,CUST-1260
+ORD-20260229,2026-10-08 22:09:26,PROD-302,Smart Air Purifier with HEPA Filter,Home & Kitchen,4,125.01,Asia-Pacific,CUST-1037
+ORD-20260290,2026-07-05 23:09:50,PROD-303,Non-Stick Ceramic Cookware Set 10-pc,Home & Kitchen,7,124.7,North America,CUST-1039
+ORD-20260326,2026-10-11 20:18:38,PROD-103,4K Ultra HD Gaming Monitor 27-inch,Electronics,5,359.12,Latin America,CUST-1188
+ORD-20260218,2026-09-26 20:22:36,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,1,31.74,Asia-Pacific,CUST-1015
+ORD-20260067,2026-08-01 02:57:53,PROD-201,Organic Cotton Crewneck T-Shirt,Clothing,3,29.13,North America,CUST-1196
+ORD-20260075,2026-07-25 04:49:35,PROD-202,Water-Resistant Running Jacket,Clothing,7,48.15,Asia-Pacific,CUST-1320
+ORD-20260346,2026-06-28 02:02:38,PROD-201,Organic Cotton Crewneck T-Shirt,Clothing,2,26.24,Middle East,CUST-1195
+ORD-20260379,2026-07-05 22:15:21,PROD-203,Classic Denim Straight Jeans,Clothing,2,60.47,Middle East,CUST-1069
+ORD-20260170,2026-09-09 22:21:09,PROD-203,Classic Denim Straight Jeans,Clothing,3,47.32,Latin America,CUST-1290
+ORD-20260492,99/99/2026,PROD-401,Python Cloud Architecture Handbook,Books,8,30.18,Asia-Pacific,CUST-1419
+ORD-20260445,2026-07-08 21:06:13,PROD-401,Python Cloud Architecture Handbook,Books,8,32.77,Asia-Pacific,CUST-1124
+ORD-20260467,2026-10-23 18:21:22,PROD-103,4K Ultra HD Gaming Monitor 27-inch,Electronics,4,,Middle East,CUST-1259
+ORD-20260451,2026-09-26 17:24:25,PROD-402,Distributed Systems in Practice, BOOKS ,4,43.91,Latin America,CUST-1238
+ORD-20260020,2026-10-04 20:37:47,PROD-303,Non-Stick Ceramic Cookware Set 10-pc,Home & Kitchen,2,134.62,Middle East,CUST-1240
+ORD-20260273,2026-10-17 07:57:50,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,8,31.55,North America,CUST-1324
+ORD-20260341,2026-10-07 17:06:56,PROD-104,USB-C Fast Charging Hub,Electronics,6,39.95,Latin America,CUST-1270
+ORD-20260485,2026-09-01 04:17:13,PROD-301,Stainless Steel French Press Coffee Maker,Home & Kitchen,5,-31.89,Asia-Pacific,CUST-1173
+ORD-20260418,2026-07-08 08:31:41,PROD-302,Smart Air Purifier with HEPA Filter,Home & Kitchen,1,106.07,Middle East,CUST-1244
+ORD-20260130,2026-07-12 09:37:16,PROD-203,Classic Denim Straight Jeans,Clothing,8,42.21,North America,CUST-1078
+ORD-20260025,2026-08-04 17:31:00,PROD-303,Non-Stick Ceramic Cookware Set 10-pc,Home & Kitchen,4,113.75,Europe,CUST-1277
+ORD-20260149,2026-08-21 11:57:30,PROD-401,Python Cloud Architecture Handbook,Books,8,38.25,Europe,CUST-1266
+ORD-20260022,2026-07-03 16:26:59,PROD-501,Adjustable Dumbbells Set 50-lb,Fitness,5,265.28,Asia-Pacific,CUST-1058
+ORD-20260192,2026-09-05 19:29:01,PROD-202,Water-Resistant Running Jacket,Clothing,7,71.42,Europe,CUST-1454
+ORD-20260118,2026-07-05 01:56:29,PROD-302,Smart Air Purifier with HEPA Filter,Home & Kitchen,1,126.15,Europe,CUST-1044
+ORD-20260096,2026-07-21 16:06:58,PROD-501,Adjustable Dumbbells Set 50-lb,Fitness,4,223.22,Asia-Pacific,CUST-1224
+ORD-20260245,2026-10-01 00:17:37,PROD-303,Non-Stick Ceramic Cookware Set 10-pc,Home & Kitchen,8,145.11,North America,CUST-1231
+ORD-20260482,2026-08-05 08:36:38,PROD-203,Classic Denim Straight Jeans,Clothing,0,60.83,Asia-Pacific,CUST-1233
+ORD-20260259,2026-07-25 03:21:07,PROD-301,Stainless Steel French Press Coffee Maker,Home & Kitchen,5,40.04,Latin America,CUST-1120
+ORD-20260134,2026-08-08 08:23:14,PROD-501,Adjustable Dumbbells Set 50-lb,Fitness,4,243.82,Asia-Pacific,CUST-1339
+ORD-20260403,2026-08-11 14:54:51,PROD-402,Distributed Systems in Practice,Books,7,40.89,Europe,CUST-1169
+ORD-20260230,2026-09-05 10:27:36,PROD-203,Classic Denim Straight Jeans,Clothing,1,53.78,North America,CUST-1442
+ORD-20260362,2026-08-31 17:14:22,PROD-202,Water-Resistant Running Jacket,Clothing,2,63.03,North America,CUST-1095
+ORD-20260236,2026-08-21 04:56:25,PROD-501,Adjustable Dumbbells Set 50-lb,Fitness,6,202.65,Europe,CUST-1121
+ORD-20260012,2026-08-01 02:16:47,PROD-402,Distributed Systems in Practice,Books,2,47.17,Europe,CUST-1274
+ORD-20260329,2026-08-08 07:40:28,PROD-103,4K Ultra HD Gaming Monitor 27-inch,Electronics,2,309.08,Asia-Pacific,CUST-1286
+ORD-20260478,2026-09-17 15:08:51,PROD-201,Organic Cotton Crewneck T-Shirt,Clothing,0,20.33,Latin America,CUST-1471
+ORD-20260183,2026-08-16 22:40:47,PROD-302,Smart Air Purifier with HEPA Filter,Home & Kitchen,5,148.12,Asia-Pacific,CUST-1468
+ORD-20260438,2026-09-04 23:54:16,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,7,34.87,Asia-Pacific,CUST-1226
+ORD-20260249,2026-09-13 08:33:33,PROD-302,Smart Air Purifier with HEPA Filter,Home & Kitchen,7,109.88,Middle East,CUST-1448
+ORD-20260345,2026-09-19 04:27:12,PROD-402,Distributed Systems in Practice,Books,8,41.33,Asia-Pacific,CUST-1287
+ORD-20260247,2026-09-23 20:03:43,PROD-301,Stainless Steel French Press Coffee Maker,Home & Kitchen,3,32.27,Asia-Pacific,CUST-1199
+ORD-20260252,2026-07-16 00:02:26,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,3,32.72,Middle East,CUST-1048
+ORD-20260307,2026-10-08 15:55:40,PROD-401,Python Cloud Architecture Handbook,Books,3,45.35,Europe,CUST-1222
+ORD-20260122,2026-07-21 15:57:40,PROD-202,Water-Resistant Running Jacket,Clothing,6,76.62,Asia-Pacific,CUST-1157
+ORD-20260458,2026-09-05 10:56:14,PROD-402,Distributed Systems in Practice,Books,4,43.98,Latin America,CUST-1200
+ORD-20260054,2026-10-17 03:06:22,PROD-202,Water-Resistant Running Jacket,Clothing,5,52.1,Middle East,CUST-1361
+ORD-20260158,2026-06-27 17:30:50,PROD-201,Organic Cotton Crewneck T-Shirt,Clothing,1,22.32,Asia-Pacific,CUST-1429
+ORD-20260193,2026-09-01 12:09:19,PROD-102,Ergonomic Mechanical Keyboard,Electronics,8,103.09,Asia-Pacific,CUST-1017
+ORD-20260001,2026-08-05 07:56:48,PROD-101,Wireless Noise-Canceling Headphones,Electronics,5,109.38,Europe,CUST-1378
+ORD-20260344,2026-09-24 01:50:31,PROD-302,Smart Air Purifier with HEPA Filter,Home & Kitchen,5,105.73,Asia-Pacific,CUST-1395
+ORD-20260282,2026-10-20 00:30:35,PROD-201,Organic Cotton Crewneck T-Shirt,Clothing,7,31.85,Middle East,CUST-1243
+ORD-20260465,2026-09-01 05:14:13,PROD-301,Stainless Steel French Press Coffee Maker,home & kitchen,3,36.09,Latin America,CUST-1148
+ORD-20260120,2026-07-16 11:22:20,PROD-102,Ergonomic Mechanical Keyboard,Electronics,5,75.5,Europe,CUST-1157
+ORD-20260013,2026-07-24 03:05:13,PROD-103,4K Ultra HD Gaming Monitor 27-inch,Electronics,8,306.91,Middle East,CUST-1113
+ORD-20260210,2026-08-02 12:18:04,PROD-501,Adjustable Dumbbells Set 50-lb,Fitness,4,214.5,Europe,CUST-1212
+ORD-20260004,2026-09-26 19:38:42,PROD-303,Non-Stick Ceramic Cookware Set 10-pc,Home & Kitchen,5,172.84,North America,CUST-1389
+ORD-20260021,2026-08-19 02:50:47,PROD-302,Smart Air Purifier with HEPA Filter,Home & Kitchen,1,137.61,North America,CUST-1350
+ORD-20260396,2026-10-20 09:21:01,PROD-104,USB-C Fast Charging Hub,Electronics,4,29.58,Asia-Pacific,CUST-1156
+ORD-20260101,2026-07-19 22:11:48,PROD-201,Organic Cotton Crewneck T-Shirt,Clothing,7,21.91,North America,CUST-1241
+ORD-20260253,2026-08-03 20:35:04,PROD-302,Smart Air Purifier with HEPA Filter,Home & Kitchen,6,91.27,Asia-Pacific,CUST-1093
+ORD-20260281,2026-07-25 19:20:12,PROD-101,Wireless Noise-Canceling Headphones,Electronics,5,104.18,Europe,CUST-1454
+ORD-20260238,2026-07-19 12:08:02,PROD-102,Ergonomic Mechanical Keyboard,Electronics,3,126.58,Latin America,CUST-1238
+ORD-20260125,2026-08-10 16:53:55,PROD-303,Non-Stick Ceramic Cookware Set 10-pc,Home & Kitchen,5,188.24,Europe,CUST-1152
+ORD-20260156,2026-08-16 06:44:02,PROD-203,Classic Denim Straight Jeans,Clothing,4,67.65,Middle East,CUST-1383
+ORD-20260150,2026-09-08 13:19:51,PROD-501,Adjustable Dumbbells Set 50-lb,Fitness,8,243.8,North America,CUST-1105
+ORD-20260103,2026-08-03 10:32:04,PROD-501,Adjustable Dumbbells Set 50-lb,Fitness,1,292.43,Europe,CUST-1430
+ORD-20260440,2026-07-29 04:41:14,PROD-301,Stainless Steel French Press Coffee Maker,Home & Kitchen,6,28.54,Latin America,CUST-1496
+ORD-20260005,2026-07-14 06:11:14,PROD-402,Distributed Systems in Practice,Books,7,41.8,Europe,CUST-1111
+ORD-20260334,2026-07-10 01:06:19,PROD-303,Non-Stick Ceramic Cookware Set 10-pc,Home & Kitchen,6,145.65,Middle East,CUST-1273
+ORD-20260371,2026-08-22 04:38:23,PROD-303,Non-Stick Ceramic Cookware Set 10-pc,Home & Kitchen,3,114.8,Middle East,CUST-1227
+ORD-20260487,2026-10-12 13:12:06,PROD-501,Adjustable Dumbbells Set 50-lb,Fitness,8,-28.26,Europe,CUST-1226
+ORD-20260160,2026-08-24 23:26:04,PROD-202,Water-Resistant Running Jacket,Clothing,7,65.49,Asia-Pacific,CUST-1446
+ORD-20260145,2026-08-30 12:53:18,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,8,37.5,Latin America,CUST-1179
+ORD-20260239,2026-07-20 15:28:31,PROD-501,Adjustable Dumbbells Set 50-lb,Fitness,8,252.16,Middle East,CUST-1330
+ORD-20260036,2026-08-26 03:09:10,PROD-501,Adjustable Dumbbells Set 50-lb,Fitness,8,271.11,Europe,CUST-1049
+ORD-20260401,2026-07-10 00:20:27,PROD-104,USB-C Fast Charging Hub,Electronics,6,26.25,North America,CUST-1289
+ORD-20260315,2026-07-03 13:09:57,PROD-302,Smart Air Purifier with HEPA Filter,Home & Kitchen,5,134.92,Asia-Pacific,CUST-1248
+ORD-20260495,NOT_A_DATE,PROD-401,Python Cloud Architecture Handbook,Books,3,31.36,Middle East,CUST-1005
+ORD-20260306,2026-10-09 00:27:27,PROD-401,Python Cloud Architecture Handbook,Books,2,38.99,Middle East,CUST-1177
+ORD-20260310,2026-09-19 09:07:44,PROD-201,Organic Cotton Crewneck T-Shirt,Clothing,4,27.07,Middle East,CUST-1141
+ORD-20260027,2026-09-09 00:48:14,PROD-104,USB-C Fast Charging Hub,Electronics,1,24.81,Middle East,CUST-1485
+ORD-20260258,2026-07-02 05:58:23,PROD-402,Distributed Systems in Practice,Books,8,35.86,Asia-Pacific,CUST-1347
+ORD-20260448,2026-10-20 22:54:36,PROD-402,Distributed Systems in Practice,Books,2,37.18,Europe,CUST-1337
+ORD-20260381,2026-10-09 03:53:32,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,1,34.1,Asia-Pacific,CUST-1238
+ORD-20260293,2026-07-17 12:30:38,PROD-202,Water-Resistant Running Jacket,Clothing,6,62.22,Middle East,CUST-1017
+ORD-20260336,2026-07-31 08:00:34,PROD-203,Classic Denim Straight Jeans,Clothing,5,63.89,North America,CUST-1306
+ORD-20260139,2026-08-04 06:34:32,PROD-201,Organic Cotton Crewneck T-Shirt,Clothing,3,19.46,Europe,CUST-1406
+ORD-20260164,2026-08-18 19:21:50,PROD-101,Wireless Noise-Canceling Headphones,Electronics,3,129.19,Europe,CUST-1039
+ORD-20260214,2026-10-08 15:44:36,PROD-101,Wireless Noise-Canceling Headphones,Electronics,6,160.39,Latin America,CUST-1182
+ORD-20260473,2026-09-27 20:31:15,PROD-102,Ergonomic Mechanical Keyboard,Electronics,4,,North America,CUST-1231
+ORD-20260165,2026-08-26 02:21:03,PROD-202,Water-Resistant Running Jacket,Clothing,7,74.24,Asia-Pacific,CUST-1437
+ORD-20260115,2026-06-28 08:50:41,PROD-201,Organic Cotton Crewneck T-Shirt,Clothing,8,21.79,Latin America,CUST-1292
+ORD-20260215,2026-07-05 20:36:05,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,1,37.49,Middle East,CUST-1160
+ORD-20260472,2026-08-16 22:38:35,PROD-302,Smart Air Purifier with HEPA Filter,Home & Kitchen,1,143.19,Latin America,
+ORD-20260019,2026-08-23 08:41:25,PROD-501,Adjustable Dumbbells Set 50-lb,Fitness,1,279.16,Europe,CUST-1322
+ORD-20260092,2026-07-29 06:26:12,PROD-402,Distributed Systems in Practice,Books,4,36.27,Latin America,CUST-1170
+ORD-20260077,2026-09-04 01:14:08,PROD-302,Smart Air Purifier with HEPA Filter,Home & Kitchen,3,103.42,Latin America,CUST-1347
+ORD-20260483,2026-08-24 00:05:02,PROD-303,Non-Stick Ceramic Cookware Set 10-pc,Home & Kitchen,-4,178.19,North America,CUST-1375
+ORD-20260187,2026-09-21 16:27:51,PROD-102,Ergonomic Mechanical Keyboard,Electronics,8,85.79,Asia-Pacific,CUST-1300
+ORD-20260423,2026-07-29 09:08:41,PROD-302,Smart Air Purifier with HEPA Filter,Home & Kitchen,6,93.75,Latin America,CUST-1119
+ORD-20260024,2026-08-22 05:29:44,PROD-302,Smart Air Purifier with HEPA Filter,Home & Kitchen,2,150.93,Asia-Pacific,CUST-1431
+ORD-20260372,2026-10-11 04:31:18,PROD-402,Distributed Systems in Practice,Books,8,36.81,Middle East,CUST-1229
+ORD-20260359,2026-08-23 07:06:51,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,8,26.37,North America,CUST-1170
+ORD-20260023,2026-09-17 20:10:15,PROD-103,4K Ultra HD Gaming Monitor 27-inch,Electronics,8,250.48,Asia-Pacific,CUST-1498
+ORD-20260002,2026-10-11 16:08:38,PROD-102,Ergonomic Mechanical Keyboard,Electronics,7,62.21,North America,CUST-1112
+ORD-20260455,2026-09-17 10:22:24,PROD-501,Adjustable Dumbbells Set 50-lb,Fitness,2,153.38,Asia-Pacific,CUST-1332
+ORD-20260117,2026-08-24 04:16:38,PROD-202,Water-Resistant Running Jacket,Clothing,5,60.31,Middle East,CUST-1360
+ORD-20260369,2026-09-23 14:18:26,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,2,30.41,Middle East,CUST-1361
+ORD-20260294,2026-08-09 06:24:49,PROD-401,Python Cloud Architecture Handbook,Books,8,48.97,Asia-Pacific,CUST-1228
+ORD-20260053,2026-10-15 16:25:32,PROD-104,USB-C Fast Charging Hub,Electronics,5,22.64,Asia-Pacific,CUST-1452
+ORD-20260131,2026-10-05 15:30:28,PROD-201,Organic Cotton Crewneck T-Shirt,Clothing,2,31.92,North America,CUST-1286
+ORD-20260081,2026-08-01 12:57:20,PROD-303,Non-Stick Ceramic Cookware Set 10-pc,Home & Kitchen,6,108.39,Europe,CUST-1345
+ORD-20260189,2026-08-06 15:33:36,PROD-202,Water-Resistant Running Jacket,Clothing,4,74.14,Latin America,CUST-1466
+ORD-20260426,2026-06-26 22:19:53,PROD-203,Classic Denim Straight Jeans,Clothing,3,60.38,Latin America,CUST-1044
+ORD-20260291,2026-07-31 12:47:20,PROD-203,Classic Denim Straight Jeans,Clothing,6,55.38,Europe,CUST-1488
+ORD-20260493,invalid-date,PROD-402,Distributed Systems in Practice,Books,3,44.54,Europe,CUST-1197
+ORD-20260447,2026-08-09 18:33:06,PROD-303,Non-Stick Ceramic Cookware Set 10-pc,Home & Kitchen,7,148.08,Latin America,CUST-1279
+ORD-20260463,2026-07-31 07:07:24,PROD-202,Water-Resistant Running Jacket,CLOTHING ,2,55.73,North America,CUST-1094
+ORD-20260390,2026-08-23 10:17:35,PROD-202,Water-Resistant Running Jacket,Clothing,7,80.35,Asia-Pacific,CUST-1357
+ORD-20260234,2026-08-10 21:25:13,PROD-302,Smart Air Purifier with HEPA Filter,Home & Kitchen,2,117.69,Asia-Pacific,CUST-1382
+ORD-20260355,2026-08-13 03:32:43,PROD-302,Smart Air Purifier with HEPA Filter,Home & Kitchen,1,153.92,Europe,CUST-1214
+ORD-20260040,2026-09-01 05:19:10,PROD-201,Organic Cotton Crewneck T-Shirt,Clothing,8,21.87,North America,CUST-1227
+ORD-20260408,2026-10-24 20:59:07,PROD-103,4K Ultra HD Gaming Monitor 27-inch,Electronics,4,260.19,Europe,CUST-1005
+ORD-20260296,2026-08-03 01:51:12,PROD-104,USB-C Fast Charging Hub,Electronics,2,20.51,Europe,CUST-1256
+ORD-20260416,2026-09-03 22:11:30,PROD-203,Classic Denim Straight Jeans,Clothing,8,41.67,North America,CUST-1360
+ORD-20260033,2026-09-25 14:34:32,PROD-104,USB-C Fast Charging Hub,Electronics,1,21.41,North America,CUST-1118
+ORD-20260269,2026-07-10 18:47:55,PROD-402,Distributed Systems in Practice,Books,3,50.17,Latin America,CUST-1230
+ORD-20260140,2026-09-15 14:20:07,PROD-402,Distributed Systems in Practice,Books,5,43.77,Latin America,CUST-1353
+ORD-20260481,2026-10-06 14:58:36,PROD-401,Python Cloud Architecture Handbook,Books,-1,42.55,Latin America,CUST-1232
+ORD-20260172,2026-07-30 03:13:54,PROD-301,Stainless Steel French Press Coffee Maker,Home & Kitchen,3,29.63,Asia-Pacific,CUST-1236
+ORD-20260016,2026-07-26 00:32:35,PROD-104,USB-C Fast Charging Hub,Electronics,8,27.9,Latin America,CUST-1074
+ORD-20260061,2026-07-26 20:25:43,PROD-302,Smart Air Purifier with HEPA Filter,Home & Kitchen,1,97.82,Europe,CUST-1280
+ORD-20260138,2026-09-21 13:14:33,PROD-303,Non-Stick Ceramic Cookware Set 10-pc,Home & Kitchen,4,138.25,Middle East,CUST-1116
+ORD-20260065,2026-06-28 03:22:51,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,3,37.62,Europe,CUST-1452
+ORD-20260191,2026-10-21 00:55:07,PROD-301,Stainless Steel French Press Coffee Maker,Home & Kitchen,2,26.93,Middle East,CUST-1070
+ORD-20260086,2026-10-18 15:42:20,PROD-104,USB-C Fast Charging Hub,Electronics,2,29.12,Latin America,CUST-1342
+ORD-20260133,2026-06-30 19:52:52,PROD-201,Organic Cotton Crewneck T-Shirt,Clothing,7,22.62,Middle East,CUST-1031
+ORD-20260265,2026-08-28 17:18:34,PROD-103,4K Ultra HD Gaming Monitor 27-inch,Electronics,7,263.75,Europe,CUST-1419
+ORD-20260268,2026-10-12 12:20:09,PROD-202,Water-Resistant Running Jacket,Clothing,3,51.19,Asia-Pacific,CUST-1470
+ORD-20260178,2026-07-30 10:12:52,PROD-303,Non-Stick Ceramic Cookware Set 10-pc,Home & Kitchen,8,174.95,Asia-Pacific,CUST-1398
+ORD-20260255,2026-10-16 01:13:50,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,2,30.12,Middle East,CUST-1428
+ORD-20260084,2026-07-25 22:01:12,PROD-301,Stainless Steel French Press Coffee Maker,Home & Kitchen,7,29.87,North America,CUST-1458
+ORD-20260006,2026-07-19 23:44:42,PROD-102,Ergonomic Mechanical Keyboard,Electronics,2,86.58,Asia-Pacific,CUST-1434
+ORD-20260071,2026-07-30 16:28:38,PROD-202,Water-Resistant Running Jacket,Clothing,1,50.19,Asia-Pacific,CUST-1092
+ORD-20260436,2026-10-15 22:51:07,PROD-201,Organic Cotton Crewneck T-Shirt,Clothing,4,28.23,Latin America,CUST-1305
+ORD-20260062,2026-10-20 22:33:27,PROD-303,Non-Stick Ceramic Cookware Set 10-pc,Home & Kitchen,3,138.67,North America,CUST-1158
+ORD-20260090,2026-08-06 03:17:22,PROD-201,Organic Cotton Crewneck T-Shirt,Clothing,8,19.55,Asia-Pacific,CUST-1121
+ORD-20260337,2026-08-26 02:19:57,PROD-401,Python Cloud Architecture Handbook,Books,4,44.42,Middle East,CUST-1246
+ORD-20260342,2026-09-07 00:34:36,PROD-103,4K Ultra HD Gaming Monitor 27-inch,Electronics,8,386.81,Asia-Pacific,CUST-1280
+ORD-20260378,2026-08-03 12:29:04,PROD-203,Classic Denim Straight Jeans,Clothing,6,69.78,Latin America,CUST-1230
+ORD-20260029,2026-10-09 07:19:32,PROD-401,Python Cloud Architecture Handbook,Books,8,48.93,Europe,CUST-1136
+ORD-20260468,2026-08-02 17:58:44,PROD-203,Classic Denim Straight Jeans,,8,52.46,Latin America,CUST-1251
+ORD-20260314,2026-08-03 04:19:29,PROD-501,Adjustable Dumbbells Set 50-lb,Fitness,7,242.71,North America,CUST-1255
+ORD-20260233,2026-07-10 22:49:32,PROD-102,Ergonomic Mechanical Keyboard,Electronics,7,119.1,Europe,CUST-1224
+ORD-20260060,2026-09-13 07:14:14,PROD-401,Python Cloud Architecture Handbook,Books,5,33.22,Latin America,CUST-1283
+ORD-20260223,2026-10-15 10:05:05,PROD-103,4K Ultra HD Gaming Monitor 27-inch,Electronics,3,363.16,North America,CUST-1346
+ORD-20260491,2026-08-03 08:40:47,PROD-402,Distributed Systems in Practice,Books,2,-15.31,Latin America,CUST-1040
+ORD-20260126,2026-09-25 22:51:39,PROD-103,4K Ultra HD Gaming Monitor 27-inch,Electronics,5,252.11,Middle East,CUST-1065
+ORD-20260030,2026-08-18 13:54:53,PROD-203,Classic Denim Straight Jeans,Clothing,4,67.86,Europe,CUST-1366
+ORD-20260446,2026-09-22 12:01:08,PROD-103,4K Ultra HD Gaming Monitor 27-inch,Electronics,7,368.35,North America,CUST-1230
+ORD-20260484,2026-08-04 22:57:28,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,2,0.0,Latin America,CUST-1112
+ORD-20260224,2026-10-15 02:05:35,PROD-301,Stainless Steel French Press Coffee Maker,Home & Kitchen,7,34.7,Latin America,CUST-1213
+ORD-20260358,2026-06-28 23:48:06,PROD-201,Organic Cotton Crewneck T-Shirt,Clothing,8,31.85,Middle East,CUST-1269
+ORD-20260392,2026-09-25 03:47:44,PROD-201,Organic Cotton Crewneck T-Shirt,Clothing,3,29.38,North America,CUST-1288
+ORD-20260034,2026-10-17 10:51:23,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,6,23.13,Europe,CUST-1143
+ORD-20260330,2026-06-26 22:41:20,PROD-501,Adjustable Dumbbells Set 50-lb,Fitness,3,179.85,Middle East,CUST-1206
+ORD-20260349,2026-09-22 18:33:27,PROD-104,USB-C Fast Charging Hub,Electronics,4,36.55,Asia-Pacific,CUST-1478
+ORD-20260333,2026-09-13 13:40:44,PROD-202,Water-Resistant Running Jacket,Clothing,3,62.68,Middle East,CUST-1379
+ORD-20260325,2026-10-19 01:45:23,PROD-301,Stainless Steel French Press Coffee Maker,Home & Kitchen,8,30.7,North America,CUST-1434
+ORD-20260419,2026-09-21 10:18:18,PROD-102,Ergonomic Mechanical Keyboard,Electronics,5,122.94,Middle East,CUST-1337
+ORD-20260452,2026-08-10 17:46:43,PROD-103,4K Ultra HD Gaming Monitor 27-inch,  ELECTRONICS  ,6,399.65,Latin America,CUST-1054
+ORD-20260168,2026-07-22 08:42:34,PROD-203,Classic Denim Straight Jeans,Clothing,2,62.8,North America,CUST-1228
+ORD-20260398,2026-07-20 18:33:47,PROD-104,USB-C Fast Charging Hub,Electronics,4,27.92,Europe,CUST-1283
+ORD-20260080,2026-09-27 17:23:20,PROD-301,Stainless Steel French Press Coffee Maker,Home & Kitchen,3,38.17,Asia-Pacific,CUST-1264
+ORD-20260105,2026-09-27 19:04:08,PROD-402,Distributed Systems in Practice,Books,5,50.33,Europe,CUST-1311
+ORD-20260262,2026-08-18 20:45:26,PROD-103,4K Ultra HD Gaming Monitor 27-inch,Electronics,4,370.18,Europe,CUST-1447
+ORD-20260041,2026-07-13 15:57:48,PROD-102,Ergonomic Mechanical Keyboard,Electronics,1,105.64,Middle East,CUST-1429
+ORD-20260159,2026-08-10 14:53:09,PROD-401,Python Cloud Architecture Handbook,Books,8,47.3,Latin America,CUST-1276
+ORD-20260400,2026-09-21 22:54:21,PROD-302,Smart Air Purifier with HEPA Filter,Home & Kitchen,8,122.61,Latin America,CUST-1390
+ORD-20260143,2026-09-25 15:03:28,PROD-303,Non-Stick Ceramic Cookware Set 10-pc,Home & Kitchen,1,189.95,Asia-Pacific,CUST-1296
+ORD-20260079,2026-09-19 04:20:51,PROD-203,Classic Denim Straight Jeans,Clothing,6,53.94,Latin America,CUST-1346
+ORD-20260496,99/99/2026,PROD-103,4K Ultra HD Gaming Monitor 27-inch,Electronics,8,302.67,Europe,CUST-1322
+ORD-20260276,2026-09-09 09:32:10,PROD-302,Smart Air Purifier with HEPA Filter,Home & Kitchen,1,117.32,Latin America,CUST-1023
+ORD-20260275,2026-09-10 03:14:29,PROD-303,Non-Stick Ceramic Cookware Set 10-pc,Home & Kitchen,7,116.85,North America,CUST-1269
+ORD-20260328,2026-09-05 17:38:27,PROD-301,Stainless Steel French Press Coffee Maker,Home & Kitchen,5,41.5,Middle East,CUST-1349
+ORD-20260043,2026-09-27 21:23:55,PROD-101,Wireless Noise-Canceling Headphones,Electronics,3,125.47,Latin America,CUST-1136
+ORD-20260206,2026-08-24 21:22:40,PROD-203,Classic Denim Straight Jeans,Clothing,2,54.7,Latin America,CUST-1038
+ORD-20260360,2026-10-04 19:17:30,PROD-401,Python Cloud Architecture Handbook,Books,5,44.36,North America,CUST-1378
+ORD-20260217,2026-07-09 08:03:36,PROD-202,Water-Resistant Running Jacket,Clothing,6,50.17,Asia-Pacific,CUST-1294
+ORD-20260213,2026-10-14 08:53:32,PROD-102,Ergonomic Mechanical Keyboard,Electronics,7,66.75,Asia-Pacific,CUST-1416
+ORD-20260393,2026-09-02 20:50:08,PROD-302,Smart Air Purifier with HEPA Filter,Home & Kitchen,3,117.18,Asia-Pacific,CUST-1105
+ORD-20260257,2026-08-09 22:17:03,PROD-103,4K Ultra HD Gaming Monitor 27-inch,Electronics,3,277.12,Middle East,CUST-1415
+ORD-20260365,2026-09-21 12:12:01,PROD-202,Water-Resistant Running Jacket,Clothing,4,47.79,North America,CUST-1239
+ORD-20260322,2026-09-13 14:58:02,PROD-402,Distributed Systems in Practice,Books,6,38.79,Europe,CUST-1256
+ORD-20260147,2026-07-28 17:57:38,PROD-201,Organic Cotton Crewneck T-Shirt,Clothing,7,29.48,Middle East,CUST-1019
+ORD-20260260,2026-08-18 03:17:32,PROD-201,Organic Cotton Crewneck T-Shirt,Clothing,8,30.7,Europe,CUST-1189
+ORD-20260204,2026-08-28 22:49:07,PROD-302,Smart Air Purifier with HEPA Filter,Home & Kitchen,2,121.63,Europe,CUST-1485
+ORD-20260405,2026-07-19 18:12:36,PROD-402,Distributed Systems in Practice,Books,8,44.21,Asia-Pacific,CUST-1087
+ORD-20260031,2026-09-15 21:28:24,PROD-401,Python Cloud Architecture Handbook,Books,6,38.75,Middle East,CUST-1232
+ORD-20260021,2026-08-19 02:50:47,PROD-302,Smart Air Purifier with HEPA Filter,Home & Kitchen,1,137.61,North America,CUST-1350
+ORD-20260111,2026-08-03 23:34:35,PROD-101,Wireless Noise-Canceling Headphones,Electronics,7,178.67,North America,CUST-1222
+ORD-20260135,2026-10-15 06:16:55,PROD-104,USB-C Fast Charging Hub,Electronics,3,31.03,Europe,CUST-1002
+ORD-20260008,2026-06-28 22:13:05,PROD-102,Ergonomic Mechanical Keyboard,Electronics,5,118.05,Middle East,CUST-1454
+ORD-20260035,2026-07-31 18:19:36,PROD-104,USB-C Fast Charging Hub,Electronics,3,34.46,Middle East,CUST-1296
+ORD-20260301,2026-09-18 01:04:45,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,3,33.39,Europe,CUST-1407
+ORD-20260009,2026-07-06 22:50:00,PROD-303,Non-Stick Ceramic Cookware Set 10-pc,Home & Kitchen,4,163.4,North America,CUST-1339
+ORD-20260038,2026-07-24 10:01:40,PROD-401,Python Cloud Architecture Handbook,Books,2,31.2,Asia-Pacific,CUST-1410
+ORD-20260395,2026-07-25 05:03:54,PROD-101,Wireless Noise-Canceling Headphones,Electronics,5,125.25,Middle East,CUST-1309
+ORD-20260242,2026-10-16 00:41:55,PROD-301,Stainless Steel French Press Coffee Maker,Home & Kitchen,8,25.74,Asia-Pacific,CUST-1426
+ORD-20260391,2026-09-01 21:08:09,PROD-103,4K Ultra HD Gaming Monitor 27-inch,Electronics,5,306.46,Middle East,CUST-1243
+ORD-20260089,2026-09-22 02:59:54,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,5,34.25,Middle East,CUST-1249
+ORD-20260350,2026-08-15 02:06:39,PROD-103,4K Ultra HD Gaming Monitor 27-inch,Electronics,2,342.34,Middle East,CUST-1123
+ORD-20260280,2026-07-17 19:05:01,PROD-402,Distributed Systems in Practice,Books,8,47.62,Europe,CUST-1033
+ORD-20260188,2026-09-06 12:45:05,PROD-202,Water-Resistant Running Jacket,Clothing,2,75.36,Latin America,CUST-1013
+ORD-20260216,2026-09-10 08:13:41,PROD-303,Non-Stick Ceramic Cookware Set 10-pc,Home & Kitchen,4,113.92,Latin America,CUST-1115
+ORD-20260292,2026-10-22 06:48:06,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,8,22.56,North America,CUST-1121
+ORD-20260430,2026-10-09 08:49:18,PROD-103,4K Ultra HD Gaming Monitor 27-inch,Electronics,7,317.32,Middle East,CUST-1263
+ORD-20260199,2026-08-11 04:08:15,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,4,27.26,Europe,CUST-1404
+ORD-20260068,2026-07-06 10:35:25,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,8,25.56,Latin America,CUST-1180
+ORD-20260163,2026-10-21 07:24:13,PROD-302,Smart Air Purifier with HEPA Filter,Home & Kitchen,6,150.87,Latin America,CUST-1052
+ORD-20260185,2026-10-10 18:56:55,PROD-102,Ergonomic Mechanical Keyboard,Electronics,3,112.78,Europe,CUST-1441
+ORD-20260007,2026-09-10 14:01:09,PROD-201,Organic Cotton Crewneck T-Shirt,Clothing,1,28.35,Middle East,CUST-1064
+ORD-20260271,2026-06-26 13:49:53,PROD-302,Smart Air Purifier with HEPA Filter,Home & Kitchen,7,97.77,Asia-Pacific,CUST-1122
+ORD-20260037,2026-10-12 12:00:26,PROD-203,Classic Denim Straight Jeans,Clothing,6,52.7,Latin America,CUST-1443
+ORD-20260305,2026-07-24 18:34:21,PROD-302,Smart Air Purifier with HEPA Filter,Home & Kitchen,7,143.83,Middle East,CUST-1038
+ORD-20260327,2026-10-19 21:24:55,PROD-101,Wireless Noise-Canceling Headphones,Electronics,4,123.49,Asia-Pacific,CUST-1038
+ORD-20260256,2026-07-22 16:49:47,PROD-101,Wireless Noise-Canceling Headphones,Electronics,6,185.16,Middle East,CUST-1068
+ORD-20260124,2026-07-20 05:15:33,PROD-104,USB-C Fast Charging Hub,Electronics,4,34.76,Asia-Pacific,CUST-1371
+ORD-20260058,2026-07-29 12:54:30,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,5,30.09,Asia-Pacific,CUST-1464
+ORD-20260198,2026-10-08 15:26:40,PROD-104,USB-C Fast Charging Hub,Electronics,2,36.59,Middle East,CUST-1107
+ORD-20260254,2026-09-27 23:33:29,PROD-501,Adjustable Dumbbells Set 50-lb,Fitness,8,178.79,Europe,CUST-1080
+ORD-20260123,2026-09-23 03:36:23,PROD-102,Ergonomic Mechanical Keyboard,Electronics,4,82.08,Middle East,CUST-1487
+ORD-20260407,2026-10-17 16:55:26,PROD-101,Wireless Noise-Canceling Headphones,Electronics,2,193.41,North America,CUST-1392
+ORD-20260402,2026-07-07 03:56:38,PROD-402,Distributed Systems in Practice,Books,3,35.31,Middle East,CUST-1479
+ORD-20260028,2026-10-15 08:52:54,PROD-402,Distributed Systems in Practice,Books,8,51.31,Middle East,CUST-1393
+ORD-20260475,2026-07-14 03:22:24,PROD-104,USB-C Fast Charging Hub,Electronics,6,37.21,Middle East,
+ORD-20260152,2026-10-21 13:03:42,PROD-303,Non-Stick Ceramic Cookware Set 10-pc,Home & Kitchen,4,163.87,Asia-Pacific,CUST-1283
+ORD-20260201,2026-08-17 02:52:27,PROD-501,Adjustable Dumbbells Set 50-lb,Fitness,3,166.48,North America,CUST-1068
+ORD-20260383,2026-09-11 06:21:08,PROD-201,Organic Cotton Crewneck T-Shirt,Clothing,4,31.16,North America,CUST-1017
+ORD-20260097,2026-08-24 10:56:36,PROD-203,Classic Denim Straight Jeans,Clothing,6,60.06,Latin America,CUST-1371
+ORD-20260261,2026-07-30 15:13:54,PROD-301,Stainless Steel French Press Coffee Maker,Home & Kitchen,8,40.38,Latin America,CUST-1258
+ORD-20260311,2026-10-08 13:14:38,PROD-201,Organic Cotton Crewneck T-Shirt,Clothing,2,25.28,Europe,CUST-1304
+ORD-20260266,2026-08-28 23:16:20,PROD-101,Wireless Noise-Canceling Headphones,Electronics,7,86.38,Middle East,CUST-1192
+ORD-20260106,2026-08-09 07:49:48,PROD-501,Adjustable Dumbbells Set 50-lb,Fitness,3,294.7,North America,CUST-1297
+ORD-20260155,2026-07-27 02:02:42,PROD-203,Classic Denim Straight Jeans,Clothing,8,69.4,Europe,CUST-1234
+ORD-20260449,2026-07-31 23:04:29,PROD-103,4K Ultra HD Gaming Monitor 27-inch,Electronics,1,334.47,Latin America,CUST-1496
+ORD-20260338,2026-10-03 16:54:48,PROD-401,Python Cloud Architecture Handbook,Books,7,32.95,Europe,CUST-1017
+ORD-20260434,2026-09-07 05:49:44,PROD-103,4K Ultra HD Gaming Monitor 27-inch,Electronics,5,295.16,Latin America,CUST-1075
+ORD-20260435,2026-10-17 05:54:44,PROD-203,Classic Denim Straight Jeans,Clothing,5,52.62,Latin America,CUST-1401
+ORD-20260014,2026-07-30 00:11:36,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,1,25.66,North America,CUST-1413
+ORD-20260354,2026-09-19 00:18:24,PROD-201,Organic Cotton Crewneck T-Shirt,Clothing,1,30.76,North America,CUST-1334
+ORD-20260399,2026-09-14 01:41:39,PROD-203,Classic Denim Straight Jeans,Clothing,8,56.0,Asia-Pacific,CUST-1158
+ORD-20260146,2026-09-02 23:51:53,PROD-202,Water-Resistant Running Jacket,Clothing,2,83.59,Asia-Pacific,CUST-1211
+ORD-20260312,2026-06-26 14:51:34,PROD-103,4K Ultra HD Gaming Monitor 27-inch,Electronics,3,348.8,Middle East,CUST-1173
+ORD-20260370,2026-09-09 09:09:23,PROD-303,Non-Stick Ceramic Cookware Set 10-pc,Home & Kitchen,2,105.55,Middle East,CUST-1463
+ORD-20260011,2026-08-27 12:51:20,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,6,24.6,Asia-Pacific,CUST-1108
+ORD-20260308,2026-08-22 09:58:57,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,2,30.29,Asia-Pacific,CUST-1085
+ORD-20260284,2026-08-02 23:54:54,PROD-201,Organic Cotton Crewneck T-Shirt,Clothing,2,29.29,Latin America,CUST-1456
+ORD-20260128,2026-07-05 18:07:40,PROD-102,Ergonomic Mechanical Keyboard,Electronics,1,100.17,Latin America,CUST-1246
+ORD-20260044,2026-06-28 19:26:02,PROD-201,Organic Cotton Crewneck T-Shirt,Clothing,7,27.9,Middle East,CUST-1339
+ORD-20260331,2026-08-22 10:32:04,PROD-101,Wireless Noise-Canceling Headphones,Electronics,1,96.43,Asia-Pacific,CUST-1412
+ORD-20260142,2026-07-03 20:16:14,PROD-402,Distributed Systems in Practice,Books,6,47.06,North America,CUST-1047
+ORD-20260127,2026-09-20 10:20:35,PROD-101,Wireless Noise-Canceling Headphones,Electronics,5,163.68,Europe,CUST-1327
+ORD-20260488,2026-09-01 04:38:02,PROD-402,Distributed Systems in Practice,Books,3,0.0,Asia-Pacific,CUST-1082
+ORD-20260406,2026-10-07 16:06:04,PROD-301,Stainless Steel French Press Coffee Maker,Home & Kitchen,3,43.33,Middle East,CUST-1329
+ORD-20260162,2026-09-14 18:46:47,PROD-402,Distributed Systems in Practice,Books,7,42.71,Europe,CUST-1254
+ORD-20260220,2026-10-02 06:47:04,PROD-303,Non-Stick Ceramic Cookware Set 10-pc,Home & Kitchen,7,106.25,North America,CUST-1047
+ORD-20260180,2026-09-22 12:00:00,PROD-401,Python Cloud Architecture Handbook,Books,3,42.55,North America,CUST-1159
+ORD-20260197,2026-08-02 04:16:39,PROD-401,Python Cloud Architecture Handbook,Books,1,31.0,Asia-Pacific,CUST-1125
+ORD-20260374,2026-10-17 15:39:18,PROD-301,Stainless Steel French Press Coffee Maker,Home & Kitchen,5,39.46,Latin America,CUST-1131
+ORD-20260302,2026-09-08 17:28:37,PROD-104,USB-C Fast Charging Hub,Electronics,2,39.69,Europe,CUST-1122
+ORD-20260064,2026-07-17 15:36:55,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,7,37.58,Europe,CUST-1474
+ORD-20260386,2026-08-30 03:28:05,PROD-302,Smart Air Purifier with HEPA Filter,Home & Kitchen,4,142.8,North America,CUST-1072
+ORD-20260072,2026-08-12 02:20:05,PROD-101,Wireless Noise-Canceling Headphones,Electronics,2,151.58,Asia-Pacific,CUST-1374
+ORD-20260052,2026-09-15 09:21:32,PROD-101,Wireless Noise-Canceling Headphones,Electronics,8,154.53,Middle East,CUST-1052
+ORD-20260460,2026-07-14 16:27:09,PROD-103,4K Ultra HD Gaming Monitor 27-inch,  ELECTRONICS  ,6,298.89,Latin America,CUST-1059
+ORD-20260045,2026-07-25 18:16:52,PROD-103,4K Ultra HD Gaming Monitor 27-inch,Electronics,4,294.5,North America,CUST-1297
+ORD-20260112,2026-09-08 12:51:33,PROD-502,Eco-Friendly Yoga Mat 6mm,Fitness,8,33.32,Latin America,CUST-1091
+ORD-20260441,2026-09-15 01:23:20,PROD-402,Distributed Systems in Practice,Books,8,54.35,Europe,CUST-1167
+ORD-20260227,2026-10-18 11:43:13,PROD-104,USB-C Fast Charging Hub,Electronics,5,38.9,Europe,CUST-1392
+ORD-20260352,2026-09-02 23:58:28,PROD-402,Distributed Systems in Practice,Books,8,37.0,Europe,CUST-1003
+ORD-20260316,2026-09-23 21:12:53,PROD-201,Organic Cotton Crewneck T-Shirt,Clothing,8,19.49,North America,CUST-1081
+ORD-20260211,2026-09-11 19:29:19,PROD-203,Classic Denim Straight Jeans,Clothing,7,61.88,Asia-Pacific,CUST-1219
+ORD-20260471,2026-07-21 17:57:59,PROD-302,Smart Air Purifier with HEPA Filter,,2,130.08,Asia-Pacific,CUST-1397
+ORD-20260078,2026-07-22 05:39:50,PROD-303,Non-Stick Ceramic Cookware Set 10-pc,Home & Kitchen,5,136.54,North America,CUST-1156
+ORD-20260384,2026-07-13 20:44:10,PROD-303,Non-Stick Ceramic Cookware Set 10-pc,Home & Kitchen,1,121.65,North America,CUST-1052
